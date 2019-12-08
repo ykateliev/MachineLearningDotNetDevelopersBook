@@ -1,0 +1,10 @@
+C:\Users\yane\source\repos\MachineLearningDotNetDevelopersBook\DigitsRecognizer\DigitsRecognizer\CSharp\bin\Debug\netcoreapp3.0\CSharp.exe
+C:\Users\yane\source\repos\MachineLearningDotNetDevelopersBook\DigitsRecognizer\DigitsRecognizer\CSharp\bin\Debug\netcoreapp3.0\CSharp.deps.json
+C:\Users\yane\source\repos\MachineLearningDotNetDevelopersBook\DigitsRecognizer\DigitsRecognizer\CSharp\bin\Debug\netcoreapp3.0\CSharp.runtimeconfig.json
+C:\Users\yane\source\repos\MachineLearningDotNetDevelopersBook\DigitsRecognizer\DigitsRecognizer\CSharp\bin\Debug\netcoreapp3.0\CSharp.runtimeconfig.dev.json
+C:\Users\yane\source\repos\MachineLearningDotNetDevelopersBook\DigitsRecognizer\DigitsRecognizer\CSharp\bin\Debug\netcoreapp3.0\CSharp.dll
+C:\Users\yane\source\repos\MachineLearningDotNetDevelopersBook\DigitsRecognizer\DigitsRecognizer\CSharp\bin\Debug\netcoreapp3.0\CSharp.pdb
+C:\Users\yane\source\repos\MachineLearningDotNetDevelopersBook\DigitsRecognizer\DigitsRecognizer\CSharp\obj\Debug\netcoreapp3.0\CSharp.AssemblyInfoInputs.cache
+C:\Users\yane\source\repos\MachineLearningDotNetDevelopersBook\DigitsRecognizer\DigitsRecognizer\CSharp\obj\Debug\netcoreapp3.0\CSharp.AssemblyInfo.cs
+C:\Users\yane\source\repos\MachineLearningDotNetDevelopersBook\DigitsRecognizer\DigitsRecognizer\CSharp\obj\Debug\netcoreapp3.0\CSharp.dll
+C:\Users\yane\source\repos\MachineLearningDotNetDevelopersBook\DigitsRecognizer\DigitsRecognizer\CSharp\obj\Debug\netcoreapp3.0\CSharp.pdb
