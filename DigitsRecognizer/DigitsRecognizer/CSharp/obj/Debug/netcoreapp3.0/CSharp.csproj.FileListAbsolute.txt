@@ -8,3 +8,7 @@ C:\Users\yane\source\repos\MachineLearningDotNetDevelopersBook\DigitsRecognizer\
 C:\Users\yane\source\repos\MachineLearningDotNetDevelopersBook\DigitsRecognizer\DigitsRecognizer\CSharp\obj\Debug\netcoreapp3.0\CSharp.AssemblyInfo.cs
 C:\Users\yane\source\repos\MachineLearningDotNetDevelopersBook\DigitsRecognizer\DigitsRecognizer\CSharp\obj\Debug\netcoreapp3.0\CSharp.dll
 C:\Users\yane\source\repos\MachineLearningDotNetDevelopersBook\DigitsRecognizer\DigitsRecognizer\CSharp\obj\Debug\netcoreapp3.0\CSharp.pdb
+C:\Users\yane\source\repos\MachineLearningDotNetDevelopersBook\DigitsRecognizer\DigitsRecognizer\CSharp\bin\Debug\netcoreapp3.0\Data\digits_train.csv
+C:\Users\yane\source\repos\MachineLearningDotNetDevelopersBook\DigitsRecognizer\DigitsRecognizer\CSharp\bin\Debug\netcoreapp3.0\Data\trainingsample.csv
+C:\Users\yane\source\repos\MachineLearningDotNetDevelopersBook\DigitsRecognizer\DigitsRecognizer\CSharp\bin\Debug\netcoreapp3.0\Data\validationsample.csv
+C:\Users\yane\source\repos\MachineLearningDotNetDevelopersBook\DigitsRecognizer\DigitsRecognizer\CSharp\obj\Debug\netcoreapp3.0\CSharp.csprojAssemblyReference.cache
